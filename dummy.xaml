@@ -1,0 +1,7 @@
+<!-- archivo xaml de prueba -->
+<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        Title="ventana de prueba" Height="300" Width="400">
+    <Grid>
+        <TextBlock Text="prueba" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
